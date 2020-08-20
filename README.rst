@@ -5,7 +5,7 @@ Install
 pip install is_computer_on
 
 
-Create a new table
+Usage
 ------------------
 
 ::
